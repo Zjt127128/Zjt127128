@@ -1,17 +1,19 @@
-### Hi there 👋
+### Hi EveryBody 👋
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Vue.
 - 📫 How to reach me: 121285066@qq.com
 - 😄 Read more about my BOOK: [Here](http://124.220.34.116:10086/)
 
-![](https://github-readme-stats.vercel.app/api?username=Zjt127128&show_icons=true&theme=transparent)
+![](https://github-readme-stats-ten-gilt.vercel.app/api?username=Zjt127128&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Zjt127128/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zjt127128&layout=compact&theme=tokyonight)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zjt127128)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ****
 <!--
