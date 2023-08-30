@@ -5,7 +5,7 @@
 - 📫 How to reach me: 121285066@qq.com
 - 😄 Read more about my BOOK: [Here](http://124.220.34.116:10086/)
 
-![](https://github-readme-stats.vercel.app/api?username=Zjt127128&show_icons=true&theme=transparent)
+![](https://github-readme-stats-ruby-one.vercel.app/api?username=Zjt127128&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Zjt127128/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
