@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Vue.
 - 📫 How to reach me: 121285066@qq.com
-- 😄 Read more about my BOOK: [Here](http://124.220.34.116:10086/)
+- 😄 Read more about my BOOK: [Here](https://zhangjt.cn/)
 
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=Zjt127128&show_icons=true&theme=transparent)
 
